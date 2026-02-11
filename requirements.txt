@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+rasterio
+numpy
+geopandas
+shapely
+tensorflow
+opencv-python
