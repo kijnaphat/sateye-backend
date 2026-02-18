@@ -9,7 +9,7 @@ app = FastAPI()
 # --- Config (ดึงจาก Render Environment) ---
 SUPABASE_URL = os.environ.get("https://oofvlljgfisznvexigxz.supabase.co")
 SUPABASE_KEY = os.environ.get("sb_publishable_hwPTId3EwzDlwBaI-2P9wQ_A0KpRGDN")
-TELEGRAM_TOKEN = os.environ.get("8063302361:AAFkZgX8o740whuNFfZyatd_fMQXmpzGqrY")
+TELEGRAM_TOKEN = os.environ.get("8063302361:AAEfA7DGIIt4SaM0rsGtfd45C-sWqKTAQus")
 # TYPHOON_API_KEY = os.environ.get("TYPHOON_API_KEY") # (อนาคต)
 
 # เชื่อมต่อ Database
